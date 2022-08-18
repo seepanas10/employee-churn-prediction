@@ -25,6 +25,10 @@ The following steps would be followed in this study
 3. Model development and Applying various ML algorithms like Logistic Regression, K-Nearest Neighbours (KNN), Support Vector Machine (SVM) and Naive Bayes
 4. Compare the accuracy and Conclude
 
+# Dataset Used
+
+https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
+
 # Results 
 The results are produced using various combinations of number of dimensions and the above mentioned techniques. The best accuracy was obtained with SVM and 29 dimensions.
 
